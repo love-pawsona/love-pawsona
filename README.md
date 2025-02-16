@@ -1,5 +1,4 @@
 
-3. Open `index.html` in your preferred browser
 
 ### Online Demo
 Visit [Love Pawsona](https://lovepawsona.online/) to try the game directly in your browser.
