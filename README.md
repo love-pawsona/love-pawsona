@@ -3,7 +3,7 @@
 
 ### Online Demo
 Visit [Love Pawsona](https://lovepawsona.online/) to try the game directly in your browser.
-
+[Love Pawsona](https://i.ytimg.com/vi/9KJ9dBQKvuU/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGFMgZShlMA8=&rs=AOn4CLCyL5n6lLt99jzyAkgCvbbxOz0JFg)
 ## 🎮 How to Play
 
 1. **Choose Your Companion**
